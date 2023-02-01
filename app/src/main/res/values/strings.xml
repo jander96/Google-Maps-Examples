@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map And Locations Practices</string>
+    <string name="google_map_apiKey">AIzaSyAsB9KbZz6cPgVTKwyml6v4jA5yzjyZZqc</string>
+</resources>
